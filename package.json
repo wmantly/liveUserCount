@@ -1,0 +1,22 @@
+{
+  "name": "live_user_count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmantly/liveUserCount.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmantly/liveUserCount/issues"
+  },
+  "homepage": "https://github.com/wmantly/liveUserCount#readme",
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
+}
